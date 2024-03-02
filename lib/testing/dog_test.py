@@ -2,6 +2,11 @@
 
 from dog import Dog
 
+
+
+
+
+
 class TestDog:
     '''Dog in dog.py'''
 

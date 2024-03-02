@@ -2,6 +2,7 @@
 
 from person import Person
 
+
 class TestPerson:
     '''Person in person.py'''
 
